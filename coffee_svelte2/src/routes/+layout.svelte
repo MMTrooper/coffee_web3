@@ -11,7 +11,6 @@
 
 {@render children()}
 
-<Footer />
 
 <!-- header
 hero
